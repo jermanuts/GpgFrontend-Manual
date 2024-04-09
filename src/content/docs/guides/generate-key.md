@@ -89,8 +89,7 @@ primary key for an operation, you will need to enter the password to unlock it
 (some systems have a password manager to automate this process).
 
 However, you can also check the "Do not set password" checkbox to skip setting a
-protection password for the primary key. But this is not recommended due to
-security concerns.
+protection password for the primary key. But this is not recommended for security reasons.
 
 ### Usage
 
