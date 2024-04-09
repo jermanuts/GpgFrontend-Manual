@@ -62,7 +62,7 @@ information.
 
 ### Customizable Font Size
 
-Should you find the font size on the information board to be diminutive, you can
+If you find the font size on the information board to be diminutive, you can
 easily adjust it under the 'Application' section in the settings. The default
 font size is 10, and it can be modified to any value ranging from 9 to 18.
 
@@ -128,8 +128,8 @@ considered for input.
 Understanding this list is crucial. Let's walk through its components step by
 step.
 
-- **Select**: Check the box in this column to notify Gpg Frontend that you wish
-  to use the key from this row for your subsequent operation.
+- **Select**: Check the box in this column to tell GpgFrontend that you wish
+  to use the key from this row for the next operation.
 
 - **Type**: This column informs you about the key type and whether the primary
   key exists in your key pair.
